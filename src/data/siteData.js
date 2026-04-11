@@ -56,8 +56,8 @@ const siteData = {
     ctaSecondary: "Our Services",
     trustBadge: "10000+ Parcels Delivered",
     backgroundImages: [
-      { url: "https://images.unsplash.com/photo-1570480548578-3d49ca005e67?w=1920&q=85", alt: "Professional workspace and equipment" },
-      { url: "https://images.unsplash.com/photo-1494412574643-ff11b0a5eb95?w=1920&q=85", alt: "Team delivering quality service" },
+      { url: "https://images.unsplash.com/photo-1519003722824-194d4455a60c?auto=format&fit=crop&w=1920&q=80", alt: "Professional workspace and equipment" },
+      { url: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=1920&q=80", alt: "Team delivering quality service" },
       { url: "https://images.unsplash.com/photo-1519003722824-194d4455a60c?w=1920&q=85", alt: "Modern facilities and operations" },
     ],
   },
@@ -82,11 +82,11 @@ const siteData = {
     heroTitle: "Our Services",
     heroSubtitle: "Comprehensive solutions tailored to your needs. Quality and reliability in everything we do.",
     items: [
-      { title: "Home Moving", slug: "home-moving", desc: "Complete residential relocation from packing to unpacking. We handle your belongings with the care they deserve.", features: ["Packing Services", "Loading & Unloading", "Furniture Wrapping", "Fragile Item Care", "Same-Day Moves", "Insurance Coverage"], image: "https://images.unsplash.com/photo-1570480548578-3d49ca005e67?w=800&q=80" },
-      { title: "Truck Hire", slug: "truck-hire", desc: "Self-drive and chauffeur-driven trucks for every size of move. From 1-tonners to 8-tonne trucks -- we have the fleet.", features: ["1-Ton Trucks", "4-Ton Trucks", "8-Ton Trucks", "Self-Drive Option", "Driver Provided", "Fuel Included"], image: "https://images.unsplash.com/photo-1494412574643-ff11b0a5eb95?w=800&q=80" },
+      { title: "Home Moving", slug: "home-moving", desc: "Complete residential relocation from packing to unpacking. We handle your belongings with the care they deserve.", features: ["Packing Services", "Loading & Unloading", "Furniture Wrapping", "Fragile Item Care", "Same-Day Moves", "Insurance Coverage"], image: "https://images.unsplash.com/photo-1519003722824-194d4455a60c?auto=format&fit=crop&w=1920&q=80" },
+      { title: "Truck Hire", slug: "truck-hire", desc: "Self-drive and chauffeur-driven trucks for every size of move. From 1-tonners to 8-tonne trucks -- we have the fleet.", features: ["1-Ton Trucks", "4-Ton Trucks", "8-Ton Trucks", "Self-Drive Option", "Driver Provided", "Fuel Included"], image: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=1920&q=80" },
       { title: "Office Relocations", slug: "office-relocations", desc: "Minimise downtime with our planned office relocation service. We move your business over a weekend so Monday runs as normal.", features: ["Weekend Scheduling", "IT Equipment Handling", "Furniture Assembly", "Floor Plans", "Labelling System", "Post-Move Cleanup"], image: "https://images.unsplash.com/photo-1519003722824-194d4455a60c?w=800&q=80" },
-      { title: "Long-Distance Transport", slug: "long-distance", desc: "Cross-country moves handled with precision. Harare to Bulawayo, Mutare, Victoria Falls -- anywhere in Zimbabwe.", features: ["Nationwide Coverage", "Route Planning", "Overnight Storage", "Progress Updates", "Border Compliance", "Multi-Stop Routes"], image: "https://images.unsplash.com/photo-1570480548578-3d49ca005e67?w=800&q=80" },
-      { title: "Furniture Transport", slug: "furniture-transport", desc: "Specialist furniture moving with protective wrapping, blankets, and experienced handlers who know how to manoeuvre tight spaces.", features: ["Protective Wrapping", "Blanket Coverage", "Stair Navigation", "Disassembly & Reassembly", "Piano Moving", "Antique Handling"], image: "https://images.unsplash.com/photo-1494412574643-ff11b0a5eb95?w=800&q=80" },
+      { title: "Long-Distance Transport", slug: "long-distance", desc: "Cross-country moves handled with precision. Harare to Bulawayo, Mutare, Victoria Falls -- anywhere in Zimbabwe.", features: ["Nationwide Coverage", "Route Planning", "Overnight Storage", "Progress Updates", "Border Compliance", "Multi-Stop Routes"], image: "https://images.unsplash.com/photo-1519003722824-194d4455a60c?auto=format&fit=crop&w=1920&q=80" },
+      { title: "Furniture Transport", slug: "furniture-transport", desc: "Specialist furniture moving with protective wrapping, blankets, and experienced handlers who know how to manoeuvre tight spaces.", features: ["Protective Wrapping", "Blanket Coverage", "Stair Navigation", "Disassembly & Reassembly", "Piano Moving", "Antique Handling"], image: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=1920&q=80" },
       { title: "Storage Solutions", slug: "storage", desc: "Short and long-term secure storage for household goods, commercial inventory, and everything in between.", features: ["24/7 Security", "Climate Control", "Flexible Terms", "Inventory Tracking", "Easy Access", "Insurance Options"], image: "https://images.unsplash.com/photo-1519003722824-194d4455a60c?w=800&q=80" },
     ],
   },
@@ -95,11 +95,11 @@ const siteData = {
     heroTitle: "Our Work",
     heroSubtitle: "A selection of projects that showcase our commitment to excellence.",
     items: [
-      { title: "E-Commerce Fulfilment", slug: "ecommerce-fulfilment", category: "Corporate", location: "Harare, Zimbabwe", desc: "End-to-end logistics for a major online retailer handling 500+ daily orders.", client: "Client Project", services: ["Home Moving", "Truck Hire"], image: "https://images.unsplash.com/photo-1570480548578-3d49ca005e67?w=800&q=80", images: ["https://images.unsplash.com/photo-1570480548578-3d49ca005e67?w=800&q=80"] },
-      { title: "Pharmacy Network", slug: "pharmacy-network", category: "Healthcare", location: "Harare, Zimbabwe", desc: "Temperature-controlled medicine delivery across 30 pharmacy branches.", client: "Client Project", services: ["Home Moving", "Truck Hire"], image: "https://images.unsplash.com/photo-1494412574643-ff11b0a5eb95?w=800&q=80", images: ["https://images.unsplash.com/photo-1494412574643-ff11b0a5eb95?w=800&q=80"] },
+      { title: "E-Commerce Fulfilment", slug: "ecommerce-fulfilment", category: "Corporate", location: "Harare, Zimbabwe", desc: "End-to-end logistics for a major online retailer handling 500+ daily orders.", client: "Client Project", services: ["Home Moving", "Truck Hire"], image: "https://images.unsplash.com/photo-1519003722824-194d4455a60c?auto=format&fit=crop&w=1920&q=80", images: ["https://images.unsplash.com/photo-1519003722824-194d4455a60c?auto=format&fit=crop&w=1920&q=80"] },
+      { title: "Pharmacy Network", slug: "pharmacy-network", category: "Healthcare", location: "Harare, Zimbabwe", desc: "Temperature-controlled medicine delivery across 30 pharmacy branches.", client: "Client Project", services: ["Home Moving", "Truck Hire"], image: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=1920&q=80", images: ["https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=1920&q=80"] },
       { title: "Agricultural Supply Chain", slug: "agri-supply", category: "Agriculture", location: "Harare, Zimbabwe", desc: "Farm-to-market logistics connecting rural producers with urban buyers.", client: "Client Project", services: ["Home Moving", "Truck Hire"], image: "https://images.unsplash.com/photo-1519003722824-194d4455a60c?w=800&q=80", images: ["https://images.unsplash.com/photo-1519003722824-194d4455a60c?w=800&q=80"] },
-      { title: "Document Express", slug: "document-express", category: "Express", location: "Harare, Zimbabwe", desc: "Same-day legal document courier for Harare's top law firms.", client: "Client Project", services: ["Home Moving", "Truck Hire"], image: "https://images.unsplash.com/photo-1570480548578-3d49ca005e67?w=800&q=80", images: ["https://images.unsplash.com/photo-1570480548578-3d49ca005e67?w=800&q=80"] },
-      { title: "Retail Distribution", slug: "retail-distribution", category: "Retail", location: "Harare, Zimbabwe", desc: "Weekly restocking runs for a 15-store retail chain across Zimbabwe.", client: "Client Project", services: ["Home Moving", "Truck Hire"], image: "https://images.unsplash.com/photo-1494412574643-ff11b0a5eb95?w=800&q=80", images: ["https://images.unsplash.com/photo-1494412574643-ff11b0a5eb95?w=800&q=80"] },
+      { title: "Document Express", slug: "document-express", category: "Express", location: "Harare, Zimbabwe", desc: "Same-day legal document courier for Harare's top law firms.", client: "Client Project", services: ["Home Moving", "Truck Hire"], image: "https://images.unsplash.com/photo-1519003722824-194d4455a60c?auto=format&fit=crop&w=1920&q=80", images: ["https://images.unsplash.com/photo-1519003722824-194d4455a60c?auto=format&fit=crop&w=1920&q=80"] },
+      { title: "Retail Distribution", slug: "retail-distribution", category: "Retail", location: "Harare, Zimbabwe", desc: "Weekly restocking runs for a 15-store retail chain across Zimbabwe.", client: "Client Project", services: ["Home Moving", "Truck Hire"], image: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=1920&q=80", images: ["https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=1920&q=80"] },
     ],
   },
 
@@ -167,7 +167,7 @@ const siteData = {
     ctaPrimary: "Request a Quote",
     ctaSecondary: "WhatsApp Us",
     whatsappText: "Hi Bison Home Movers and Truck Hire Company! I would like to request a quote.",
-    backgroundImage: "https://images.unsplash.com/photo-1570480548578-3d49ca005e67?w=1920&q=85",
+    backgroundImage: "https://images.unsplash.com/photo-1519003722824-194d4455a60c?auto=format&fit=crop&w=1920&q=80",
   },
 
   footer: {
